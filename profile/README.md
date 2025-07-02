@@ -28,3 +28,7 @@
 **Inventor interop.dll 경로**
 
 `C:\Program Files\Autodesk\Inventor 2023\Bin\Public Assemblies`
+
+**AutoCAD interop.dll 경로**
+
+`C:\Program Files\Autodesk\AutoCAD 2023`
